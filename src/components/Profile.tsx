@@ -26,7 +26,7 @@ const SocialLink: React.FC<{ href: string; icon: React.ReactNode }> = ({
 export const Profile: React.FC = () => {
   return (
     <div className="text-center mb-8">
-      <img src="/torclogonew1030.png" alt="Profile" className="w-24 h-24 rounded-full mx-auto mb2 shadow-lg"/>
+      <img src="https://i.postimg.cc/XNzp0Pjy/torclogonew1030.png" alt="Profile" className="w-24 h-24 rounded-full mx-auto mb2 shadow-lg"/>
       <p className="text-gray-300 text-center mb-1 text-2xl">
           torc.dev
         </p>
